@@ -10,7 +10,8 @@ namespace Negocio
 {
     public class UsuarioLogic : Negocio
     {
-
+        //LKSJAksjaksjaLKSJALKSJAL
+        //esto es para ver si se actualizaaaa jodeeeerrr
         private UsuarioAdapter _UsuarioDatos;
 
         public UsuarioAdapter UsuarioDatos
